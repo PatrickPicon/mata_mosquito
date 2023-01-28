@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um jogo com três níveis de dificuldade disponivel para todos se divertirem, é só clicar nos mosquitos que aparecerem na tela e não deixar passar mais do que 4 mosquitos até o tempo acabar para vencer!
 
-- [Visite o projeto online] (https://patrickpicon.github.io/calculadora/)
+- [Visite o projeto online] (https://patrickpicon.github.io/mata_mosquito/)
